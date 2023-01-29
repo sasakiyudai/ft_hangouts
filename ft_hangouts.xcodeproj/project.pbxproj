@@ -14,6 +14,7 @@
 		166BD9B92985665700EE3FE3 /* ft_hangouts.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 166BD9B72985665700EE3FE3 /* ft_hangouts.xcdatamodeld */; };
 		166BD9BB2985665800EE3FE3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 166BD9BA2985665800EE3FE3 /* Assets.xcassets */; };
 		166BD9BE2985665800EE3FE3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 166BD9BC2985665800EE3FE3 /* LaunchScreen.storyboard */; };
+		166BD9C62986281F00EE3FE3 /* AddContactViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 166BD9C52986281F00EE3FE3 /* AddContactViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		166BD9BA2985665800EE3FE3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		166BD9BD2985665800EE3FE3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		166BD9BF2985665800EE3FE3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		166BD9C52986281F00EE3FE3 /* AddContactViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddContactViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				166BD9BC2985665800EE3FE3 /* LaunchScreen.storyboard */,
 				166BD9BF2985665800EE3FE3 /* Info.plist */,
 				166BD9B72985665700EE3FE3 /* ft_hangouts.xcdatamodeld */,
+				166BD9C52986281F00EE3FE3 /* AddContactViewController.swift */,
 			);
 			path = ft_hangouts;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				166BD9C62986281F00EE3FE3 /* AddContactViewController.swift in Sources */,
 				166BD9B32985665700EE3FE3 /* ViewController.swift in Sources */,
 				166BD9AF2985665700EE3FE3 /* AppDelegate.swift in Sources */,
 				166BD9B92985665700EE3FE3 /* ft_hangouts.xcdatamodeld in Sources */,
